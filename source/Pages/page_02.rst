@@ -195,7 +195,7 @@ Following message types are supported in current version of UWC:
      - Not Supported
      - Not Supported
 
-**3.	Name of edge node**
+**3.	Name of edge node for UWC **
 
 User should properly configure “group_id” and “edge_node_id” for each edge gateway deployed in a site such that each edge node can be uniquely identified.
 
